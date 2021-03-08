@@ -1,0 +1,5 @@
+﻿  Procedural Hero.cpp
+C:\Users\현상\source\repos\Procedural Hero\Procedural Hero\Procedural Hero.cpp(53,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\현상\source\repos\Procedural Hero\Procedural Hero\Procedural Hero.cpp(135,6): warning C4101: 'enemyX' :참조되지 않은 지역 변수입니다.
+C:\Users\현상\source\repos\Procedural Hero\Procedural Hero\Procedural Hero.cpp(134,6): warning C4101: 'enemyY' :참조되지 않은 지역 변수입니다.
+  Procedural Hero.vcxproj -> C:\Users\현상\source\repos\Procedural Hero\Debug\Procedural Hero.exe
